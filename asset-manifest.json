@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Document-Verification-API/static/css/main.ef710375.css",
+    "main.js": "/Document-Verification-API/static/js/main.0785c7e6.js",
+    "index.html": "/Document-Verification-API/index.html",
+    "main.ef710375.css.map": "/Document-Verification-API/static/css/main.ef710375.css.map",
+    "main.0785c7e6.js.map": "/Document-Verification-API/static/js/main.0785c7e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef710375.css",
+    "static/js/main.0785c7e6.js"
+  ]
+}
