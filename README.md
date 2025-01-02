@@ -1,6 +1,6 @@
 # Document Verification API
 
-[Visit the Document Verification API](YOUR_LINK_HERE)
+Visit Landing Page ['Document Verification API'](https://github.com/ChernoVl/pdfcheck)
 
 Welcome to the **Document Verification API**, a fast, secure, and reliable solution for verifying the authenticity of documents at your fingertips.
 
@@ -42,8 +42,4 @@ Welcome to the **Document Verification API**, a fast, secure, and reliable solut
 
 ## Getting Started
 
-To start using the Document Verification API, visit our website: [Visit the Document Verification API](YOUR_LINK_HERE)
-
----
-
-Replace `YOUR_LINK_HERE` with the actual URL to your API page. Let me know if you'd like additional Markdown styling or customization!
+To start using the Document Verification API, visit our website: [Document Verification API](https://github.com/ChernoVl/pdfcheck)
