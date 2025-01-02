@@ -1,6 +1,6 @@
 # Document Verification API
 
-Visit Landing Page ['Document Verification API'](https://github.com/ChernoVl/pdfcheck)
+Visit Landing Page ['Document Verification API'](https://chernovl.github.io/Document-Verification-API)
 
 Welcome to the **Document Verification API**, a fast, secure, and reliable solution for verifying the authenticity of documents at your fingertips.
 
@@ -42,4 +42,4 @@ Welcome to the **Document Verification API**, a fast, secure, and reliable solut
 
 ## Getting Started
 
-To start using the Document Verification API, visit our website: [Document Verification API](https://github.com/ChernoVl/pdfcheck)
+To start using the Document Verification API, visit our website: [Document Verification API](https://chernovl.github.io/Document-Verification-API)
