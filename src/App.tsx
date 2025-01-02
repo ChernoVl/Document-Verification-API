@@ -1,26 +1,19 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header';
+import Features from './components/Features';
+import HowItWorks from './components/HowItWorks';
+import CTA from './components/CTA';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <main className="min-h-screen bg-background">
+        <Header />
+        <Features />
+        <HowItWorks />
+        <CTA />
+      </main>
   );
-}
+};
 
 export default App;
